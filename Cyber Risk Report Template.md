@@ -1,7 +1,3 @@
-Certainly! Below is a template you can use to report cyber risks to your manager. This template is designed to provide a clear and concise summary of identified risks, their potential impact, and recommended actions for mitigation.
-
----
-
 # Cyber Risk Report
 
 ## Date: [Insert Date]
@@ -70,5 +66,3 @@ Additional supporting documentation, such as detailed risk assessments, vulnerab
 Additional supporting documentation, such as detailed risk assessments, vulnerability reports, and references to relevant standards or guidelines.
 
 ---
-
-Feel free to customize this template to fit your organization's specific needs and requirements. Ensure that the language and terminology used are appropriate for your audience, and provide sufficient detail to enable informed decision-making by your manager.
